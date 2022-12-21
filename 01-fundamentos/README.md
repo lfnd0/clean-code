@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="../.github/capa-ignite-clean-code.png" alt="Ignite Clean Code">
+</p>
+
+<br>
+
 <h1 align="center">
   Fundamentos do <i>Clean Code</i>
 </h1>
@@ -25,3 +31,27 @@
   - Não é um <s>código pequeno</s>!
   - Não tem nada a ver com <s>arquitetura e/ou design de software</s>!
   - Não tem nada a ver com <s>performance</s>!
+
+### Princípios do código limpo
+
+**1. Testes automatizados**
+
+  - Sem testes automatizados, dificilmente se tem confiança e previsibilidade no código desenvolvido.
+
+**2. Revisão**
+
+  - Sem revisão do código existe grande chance do código não ser limpo.
+
+**3. Refatoração**
+  - Sem refatorações constantes o código pode não se manter limpo.
+
+**4. Simplicidade**
+  - *KISS* - *Keep It Simple Stupid* (Mantenha Isso Simples e Idiota).
+  - Mantenha seu código simples, só traga complexidade para o mesmo se for realmente necessário/benéfico para o projeto.
+  - Não pense em soluções/otimizações para "problemas" que não existem.
+
+**5. Iterações curtas**
+  - *SCRUM*, *eXtreme Programming* (XP), *Trunk-based Development* são abordagens/conceitos que trazem um pouco da ideia de iterações curtas, durante o ciclo de desenvolvimento de um software.
+  - Utilizar a abordagem de adição/envio de pequenas alterações de código para compor *features* maiores ao longo do desenvolvimento.
+  - Iterações curtas facilitam a revisão, a aplicação de testes, a detecção de más práticas de codificação e/ou padrões que não estão sendo seguidos.
+  - A quantidade de *PR* (*Pull Request*) em um repositório, é uma variável que pode ser considerada durante a avaliação deste princípio.

@@ -9,7 +9,7 @@
 </h1>
 
 ### O que é ou não é *Clean Code*?
-- Pilates do *Clean Code*:
+- Pilares do *Clean Code*:
 
   **1. Legibilidade**
      <p>Este princípio está atrelado a um código de fácil leitura, que não é necessariamente simples, porém, é possível fazer a sua leitura, mesmo que haja uma grande complexidade.</p>

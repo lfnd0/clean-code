@@ -22,4 +22,10 @@
 </p>
 
 ## Índice
-- [Fundamentos do Clean Code](01-fundamentos)
+
+### Chapter I
+  - [Fundamentos do Clean Code](01-fundamentos)
+
+### Chapter II
+  - [Código limpo com JavaScript](02-codigo-limpo-javascript)
+  - [Desafio: nomeação de variáveis](05-desafios/01-nomeacao-variaveis/)

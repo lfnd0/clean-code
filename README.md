@@ -28,4 +28,5 @@
 
 ### Chapter II
   - [Código limpo com JavaScript](02-codigo-limpo-javascript)
-  - [Desafio: nomeação de variáveis](05-desafios/01-nomeacao-variaveis/)
+  - [Desafio: nomeação de variáveis](05-desafios/01-nomeacao-variaveis)
+  - [Desafio: booleanos](05-desafios/02-booleanos)

@@ -24,3 +24,8 @@
 - Para facilitar na escrita dos booleanos, leia-os com um "if" na frente.
 - Descrição do desafio:
   - [Booleanos](https://efficient-sloth-d85.notion.site/Desafio-Booleanos-aaab19f8e0394d20ae135c30094a7a3c)
+
+### Causas *vs* efeito
+- Durante o processo de codificação, devemos criar nossas variáveis com base na "causa"; e não no "efeito" ocasionado pela execução do código.
+- Descrição do desafio:
+  - [Causa/efeito](https://efficient-sloth-d85.notion.site/Desafio-Causa-vs-Efeito-a664fd5596c8467f9d5d66f3043ac9c5)

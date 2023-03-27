@@ -29,3 +29,9 @@
 - Durante o processo de codificação, devemos criar nossas variáveis com base na "causa"; e não no "efeito" ocasionado pela execução do código.
 - Descrição do desafio:
   - [Causa/efeito](https://efficient-sloth-d85.notion.site/Desafio-Causa-vs-Efeito-a664fd5596c8467f9d5d66f3043ac9c5)
+
+### Código em inglês
+- O código "deve" ser escrito em inglês (variáveis, funções, tabelas no banco de dados).
+- Desenvolver um código escrito em inglês auxilia na legibilidade do mesmo.
+- Descrição do desafio:
+  - [Código em inglês](https://efficient-sloth-d85.notion.site/Desafio-C-digo-em-ingl-s-ed988aa9dbf747a996d81b894327dfbd)

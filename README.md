@@ -31,3 +31,4 @@
   - [Desafio: nomeação de variáveis](05-desafios/01-nomeacao-variaveis)
   - [Desafio: booleanos](05-desafios/02-booleanos)
   - [Desafio: causa/efeito](05-desafios/03-causa-efeito)
+  - [Desafio: código em inglês](05-desafios/04-codigo-ingles/)

@@ -35,3 +35,13 @@
 - Desenvolver um código escrito em inglês auxilia na legibilidade do mesmo.
 - Descrição do desafio:
   - [Código em inglês](https://efficient-sloth-d85.notion.site/Desafio-C-digo-em-ingl-s-ed988aa9dbf747a996d81b894327dfbd)
+
+### Regras em condicionais
+- Evitar negações como parâmetros em condicionais, pois, são mais difíceis de serem lidas/interpretadas.
+- A negação dentro de condicionais atrapalha na legibilidade do código.
+- Evitar condicionais aninhados, por exemplo, um *if* dentro de outro *if*; ou ainda um operador ternário dentro de outro operador ternário.
+- *Early return*/*else*:
+  - A depender da lógica implementada para a execução de um condicional *if*, vale a pena utilizar o *else*.
+  - Para este cenário, podemos levar em consideração o "tamanho" da lógica implementada no condicional.
+- Descrição do desafio:
+  - [Regras em condicionais](https://efficient-sloth-d85.notion.site/Desafio-Regras-em-condicionais-d02ba76ad39e426f8f40bd49d25c0ebd)

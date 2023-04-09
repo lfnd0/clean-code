@@ -32,3 +32,4 @@
   - [Desafio: booleanos](05-desafios/02-booleanos)
   - [Desafio: causa/efeito](05-desafios/03-causa-efeito)
   - [Desafio: código em inglês](05-desafios/04-codigo-ingles/)
+  - [Desafio: regras em condicionais](05-desafios/05-regras-condicionais/)
